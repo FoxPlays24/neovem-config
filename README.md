@@ -1,8 +1,11 @@
-# neovem-config
+# ✨ neovem-config ✨
 
-> NEOVE E EEEE EEEEEEEEEEEEE M
+NEOVE E EEEE EEEEEEEEEEEEE M
 
 This is my personal, kinda minimalist, lil' bit furry flavored Neovim config, intended mainly for C/C++ programming. ✨ Feel free to explore it!
+
+![Welcome](https://github.com/user-attachments/assets/bc2e1763-b535-4e3f-acfb-8470a9162e81)
+![Workspace](https://github.com/user-attachments/assets/522b615d-0fb8-4304-8e81-944005c682af)
 
 ## Features
 
@@ -71,4 +74,8 @@ All listed hotkeys work in 'Normal' mode only.
 |`<S-Tab>`   | LuaSnip: Move to previous suggesttion    |
 |`<Tab>`     | LuaSnip: Move to next suggestion         |
 
-## Screenshots
+## 
+
+![neovem](https://github.com/user-attachments/assets/e316da6a-fe2b-4f6e-a2eb-e320a2ab9f5c)
+
+
