@@ -37,7 +37,7 @@ This is my personal, kinda minimalist, lil' bit furry flavored Neovim config, in
 + [mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - bridges between mason and lspconfig
 + [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - LSP source for nvim-cmp
 
-Required plugins for other plugins are not included in this list, so you can manually look them up in `plugins.lua`.
+Required plugins for other plugins are not included in this list, so you can manually look them up in [`plugins.lua`](https://github.com/FoxPlays24/neovem-config/blob/main/lua/plugins.lua).
 
 ## LSPs
 + [lua_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#lua_ls) — lua
