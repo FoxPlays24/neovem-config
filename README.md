@@ -1,5 +1,7 @@
 # neovem-config
 
+![start](https://github.com/user-attachments/assets/dcafbb3d-cb19-4b22-b8b6-6db6f3249692)
+
 > NEOVEEEEEEEEEEEEEEEEEEEM
 
 This is my personal neovim config, used mainly for C/C++ programming. ✨ Feel free to explore it!
@@ -72,3 +74,8 @@ All listed mappings work in 'Normal' mode only.
 | `<leader>'` | Move to next buffer                 |
 
 ## Screenshots
+
+![workspace](https://github.com/user-attachments/assets/fad05d5a-d62f-4b58-8d18-a79cbed28c35)
+![cmake](https://github.com/user-attachments/assets/409c0800-5612-4129-a885-89ddc3701704)
+![telescope](https://github.com/user-attachments/assets/74459ba9-71e2-4c2b-b473-76b588508bde)
+
