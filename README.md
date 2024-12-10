@@ -4,9 +4,9 @@
 
 > NEOVEEEEEEEEEEEEEEEEEEEM
 
-This is my personal neovim config, used mainly for C/C++ programming. ✨ Feel free to explore it!
+This is my personal neovim config, used mainly for C/C++ programming. ✨ Mostly inspired by [LazyVim](https://github.com/LazyVim/LazyVim). Feel free to explore it!
 
-## Installed plugins
+## Plugins
 
 - [lazy.nvim](https://github.com/folke/lazy.nvim) — 💤 modern plugin manager for Neovim
 - [Nordic](https://github.com/AlexvZyl/nordic.nvim) — color scheme
@@ -60,8 +60,6 @@ Not all plugins are included in this list, so you can manually look them up in `
 
 ## Mappings
 
-All listed mappings work in 'Normal' mode only.
-
 `<leader>` key is default `<space>`.
 
 | Keys        | Description                         |
@@ -78,4 +76,3 @@ All listed mappings work in 'Normal' mode only.
 ![workspace](https://github.com/user-attachments/assets/fad05d5a-d62f-4b58-8d18-a79cbed28c35)
 ![cmake](https://github.com/user-attachments/assets/409c0800-5612-4129-a885-89ddc3701704)
 ![telescope](https://github.com/user-attachments/assets/74459ba9-71e2-4c2b-b473-76b588508bde)
-
